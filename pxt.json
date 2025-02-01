@@ -1,5 +1,6 @@
 {
     "name": "eat the fruit",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
